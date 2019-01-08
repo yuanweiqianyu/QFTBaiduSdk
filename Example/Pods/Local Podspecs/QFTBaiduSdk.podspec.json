@@ -1,7 +1,7 @@
 {
   "name": "QFTBaiduSdk",
   "version": "0.1.0",
-  "summary": "A short description of QFTBaiduSdk.",
+  "summary": "QFTBaiduSdk集成百度文字检测，RN",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/yuanweiqianyu/QFTBaiduSdk",
   "license": {
@@ -16,7 +16,8 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "QFTBaiduSdk/Classes/**/*"
+  "source_files": "QFTBaiduSdk/Classes/**/*",
+  "vendored_frameworks": "QFTBaiduSdk/Classes/*.framework"
 }

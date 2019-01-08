@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'QFTBaiduSdk/Classes/**/*'
+  s.vendored_frameworks = 'QFTBaiduSdk/Classes/*.framework'
   
   # s.resource_bundles = {
   #   'QFTBaiduSdk' => ['QFTBaiduSdk/Assets/*.png']
