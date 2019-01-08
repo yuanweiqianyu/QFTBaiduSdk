@@ -1,0 +1,22 @@
+{
+  "name": "QFTBaiduSdk",
+  "version": "0.1.0",
+  "summary": "A short description of QFTBaiduSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanweiqianyu/QFTBaiduSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanweiqianyu": "panzhenzhen@58qf.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanweiqianyu/QFTBaiduSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QFTBaiduSdk/Classes/**/*"
+}

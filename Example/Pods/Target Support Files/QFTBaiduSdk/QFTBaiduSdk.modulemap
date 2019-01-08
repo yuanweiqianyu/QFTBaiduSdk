@@ -1,0 +1,6 @@
+framework module QFTBaiduSdk {
+  umbrella header "QFTBaiduSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
