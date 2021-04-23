@@ -22,8 +22,7 @@ pod 'QFTBaiduSdk'
 
 ## Author
 
-yuanweiqianyu, panzhenzhen@58qf.com
-
+yuanweiqianyu
 ## License
 
 QFTBaiduSdk is available under the MIT license. See the LICENSE file for more info.
